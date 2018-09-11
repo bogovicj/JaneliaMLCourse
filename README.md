@@ -6,6 +6,7 @@
 1. Have Anaconda (conda) installed
 2. git-clone this repository
 3. Open and run the Lecture_1.ipynb notebook
+4. [Learn numpy](https://docs.scipy.org/doc/numpy/user/quickstart.html)
 
 ### Linear regression 1
 1. Read [this website about the diabetes dataset](http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html)
