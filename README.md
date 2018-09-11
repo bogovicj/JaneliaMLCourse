@@ -16,12 +16,15 @@
 
 ### Bayes / Naive bayes
 1. Run the document classification Naive Bayes example.
-2. Play around with it - there are more than two classes.
+2. Play around with it - try with more than the two classes used in the lecture.
+3. Make up a simple classification problem, write code to generate synthetic data, and train a naive bayes classifier on your data with sklearn.
+4. Make up a different classification problem, and design it so that naive bayes classifier performs poorly. (Hint: make data that violates the assumption that naive bayes makes).
 
 ### Probability / statistics
 1. Derive Bayes rule. (Hint: start with the equation relating joint distribution to a conditional distribution)
 2. Spot and understand the "mistake" on the **Intuition -> math -> stats** slide
 
 ### Linear algebra
-1. if AB=I, then is it the case that BA=I?
-2. What is the solution to the 2x2 matrix equation in the slides?
+1. Work through a few examples of 2x2 matrix - vector multiplications by hand.  Compare to results you get in code.
+2. if AB=I, then is it the case that BA=I?
+3. What is the solution to the 2x2 matrix equation in the slides?
