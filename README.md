@@ -7,7 +7,7 @@
 2. git-clone this repository
 3. Open and run the Lecture_1.ipynb notebook
 
-### Linear regression
+### Linear regression 1
 1. Read [this website about the diabetes dataset](http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html)
 2. and [this website sklearn's Linear Regression](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression)
 3. Add one or more new features from the dataset, and solve using sklearn's LinearRegression
@@ -28,3 +28,10 @@
 1. Work through a few examples of 2x2 matrix - vector multiplications by hand.  Compare to results you get in code.
 2. if AB=I, then is it the case that BA=I?
 3. What is the solution to the 2x2 matrix equation in the slides?
+
+### Linear regression 2
+1. Go to the end of Lecture_1.ipynb and find the slides / cells that we didn't go over in the lecture.
+2. Run the sklearn code that uses Linear regression to fit a polynomial of degree-3. 
+3. Write down the matrix equation (linear system) for 
+4. Write code to generate the matrices and vectors for the equation you wrote down in (3).
+5. Solve it yourself in code with `np.linalg.lstsq` and make sure you get the same answer as sklearn.
