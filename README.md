@@ -1,5 +1,8 @@
 # Janelia ML Course - lecture 1
 
+This page has [moved here](https://github.com/JaneliaMLCourse/JaneliaMLCourse).
+Check that repo for updates
+
 ## Exercises and milestones for lab 1
 
 ### Intro Python and programming
